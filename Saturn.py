@@ -4,7 +4,6 @@
 
 x  ="♄*♄ = 0"
 x1 = "♊*♊=0"
-x2 = "People could change their belief system so that they buy cheaper oil"
 x3 = "♋*♋=0"
 x4 = "-+-=0"
 x5 = "-*-*-=0"
@@ -14,7 +13,6 @@ do = "or do not, there is no try"
 
 print(bool(x))
 print(bool(x1))
-print("False")
 print("False")
 print(bool(x4))
 print(bool(x5))
